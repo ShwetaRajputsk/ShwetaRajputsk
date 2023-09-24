@@ -15,7 +15,7 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 - 💬 Ask me about anything; I would like to answer.
 
 ## Let's Connect 💬
-[![Email](https://img.shields.io/badge/Email-shwetakashyap9420001%40gmail.com-%23D14836)](mailto:shwetakashyap9420001@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%40insanemind__sk-%23bc2a8d)](https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==) [![Portfolio](https://img.shields.io/badge/Portfolio-www.shwetarajputportfolio.xyz-%230071a6)](http://www.shwetarajputportfolio.xyz) [![YouTube](https://img.shields.io/badge/YouTube-%40yourchannel-%23ff0000)](https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-)
+[![Email](https://img.shields.io/badge/Email-shwetakashyap9420001%40gmail.com-%23D14836)](mailto:shwetakashyap9420001@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%40insanemind__sk-%23bc2a8d)](https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==) [![Portfolio](https://img.shields.io/badge/Portfolio-www.shwetarajputportfolio.xyz-%230071a6)](http://www.shwetarajputportfolio.xyz) [![YouTube](https://img.shields.io/badge/YouTube-%40insanemind_sk-%23ff0000)](https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-)
 
 ### Tech & Tools Preference
 
