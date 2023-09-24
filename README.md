@@ -3,7 +3,7 @@
 ![banner](https://github.com/insanemindsk/insanemindsk/assets/60995834/9783f8d4-f684-481b-ad2e-9f27a16d3053)
 
 
-Hi,I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
+Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 
 - 😄 Pronouns: She/Her.
 - 🎓 I’m pursuing a master's degree in Computer Application from SRM University .
