@@ -1,4 +1,4 @@
-### Hi there. I am Shweta. 👋
+### Hi there, I am Shweta Rajput. 👋
 
 
 ![banner](https://github.com/insanemindsk/insanemindsk/assets/60995834/9783f8d4-f684-481b-ad2e-9f27a16d3053)
@@ -44,5 +44,12 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 - Instagram : https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==
 - Portfolio :  www.shwetarajputportfolio.xyz
 - Youtube : https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-
+   
+<br>
 
+<p align="center">
+ Thanks for stopping by 😁<br/><br>
+<img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsanemindsk%2F" />
+<br><br>
+Visit My Profile and give a ⭐️ if you like it</p>
 ⭐️ From [Shweta](https://github.com/insanemindsk)
