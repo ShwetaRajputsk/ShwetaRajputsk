@@ -14,6 +14,8 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 - 😍 Besides programming, I enjoy eating food and traveling.
 - 💬 Ask me about anything; I would like to answer.
 
+## Let's Connect 💬
+[![Email](https://img.shields.io/badge/Email-shwetakashyap9420001%40gmail.com-%23D14836)](mailto:shwetakashyap9420001@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%40insanemind__sk-%23bc2a8d)](https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==) [![Portfolio](https://img.shields.io/badge/Portfolio-www.shwetarajputportfolio.xyz-%230071a6)](http://www.shwetarajputportfolio.xyz) [![YouTube](https://img.shields.io/badge/YouTube-%40yourchannel-%23ff0000)](https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-)
 
 ### Tech & Tools Preference
 
@@ -30,9 +32,15 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
+### Github Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=insanemindsk&show_icons=true&theme=radical)
+
 📫 How to reach me:
 
 - Email : shwetakashyap9420001@gmail.com
 - Instagram : https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==
 - Portfolio :  www.shwetarajputportfolio.xyz
 - Youtube : https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-
+
+⭐️ From [Shweta](https://github.com/insanemindsk)
