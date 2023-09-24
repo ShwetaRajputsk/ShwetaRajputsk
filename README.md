@@ -6,7 +6,7 @@
 Hi,I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 
 - 😄 Pronouns: She/Her.
-- 💼 I’m pursuing a master's degree in Computer Application 🎓 from SRM University 🏛.
+- 🎓 I’m pursuing a master's degree in Computer Application from SRM University .
 - 🔭 I’m currently working on a productivity app.
 - 🌱 I’m currently learning Computer Vision.
 - 📚 I want to learn Flutter.
@@ -17,5 +17,6 @@ Hi,I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 📫 How to reach me:
 
 - Email : shwetakashyap9420001@gmail.com
-- Instagram : @insanemind_sk
-- Portfolio : shwetarajputportfolio.xyz
+- Instagram : https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==
+- Portfolio :  www.shwetarajputportfolio.xyz
+- Youtube : https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-
