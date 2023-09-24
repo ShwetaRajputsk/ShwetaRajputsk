@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**insanemindsk/insanemindsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://github.com/insanemindsk/insanemindsk/assets/60995834/9783f8d4-f684-481b-ad2e-9f27a16d3053)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi,I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
+
+😄 Pronouns: She/Her
+💼 I’m pursuing a master's degree in Computer Application 🎓 from SRM University 🏛.
+🔭 I’m currently working on a productivity app.
+🌱 I’m currently learning Computer Vision.
+📚 I wants to learn Flutter
+👯 I love contributing to the open-source projects and to the community.
+😍 Beside's programming, I enjoy eating food and traveling.
+💬 Ask me about anything, I would like to answer.
+
+📫 How to reach me:
+Email : shwetakashyap9420001@gmail.com
+Instagram : @insanemind_sk
+Portfolio : shwetarajputportfolio.xyz
