@@ -32,6 +32,11 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
+### GitHub Stats | Most Used Languages
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=insanemindsk&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanemindsk&layout=compact&theme=radical)
+
+
 📫 How to reach me:
 
 - Email : shwetakashyap9420001@gmail.com
