@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hello World!👋
 
 ![banner](https://github.com/insanemindsk/insanemindsk/assets/60995834/9783f8d4-f684-481b-ad2e-9f27a16d3053)
 
 
 Hi,I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 
-😄 Pronouns: She/Her
-💼 I’m pursuing a master's degree in Computer Application 🎓 from SRM University 🏛.
+-- 😄 Pronouns: She/Her.
+-- 💼 I’m pursuing a master's degree in Computer Application 🎓 from SRM University 🏛.
 🔭 I’m currently working on a productivity app.
 🌱 I’m currently learning Computer Vision.
 📚 I wants to learn Flutter
