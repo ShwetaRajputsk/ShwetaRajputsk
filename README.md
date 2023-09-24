@@ -35,10 +35,10 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 
 ### GitHub Stats | Most Used Languages
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=insanemindsk&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanemindsk&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=insanemindsk&show_icons=true&theme=radical)   |   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanemindsk&layout=compact&theme=radical)
 
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 - Email : shwetakashyap9420001@gmail.com
 - Instagram : https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==
@@ -47,9 +47,8 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
    
 <br>
 
-<p align="center">
- Thanks for stopping by 😁<br/><br>
-<img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsanemindsk%2F" />
-<br><br>
-Visit My Profile and give a ⭐️ if you like it</p>
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/insanemindsk/count.svg)
+### Show some ❤️ by starring some of the repositories!
+
 ⭐️ From [Shweta](https://github.com/insanemindsk)
