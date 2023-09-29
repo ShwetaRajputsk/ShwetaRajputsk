@@ -44,7 +44,8 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 - Instagram : https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==
 - Portfolio :  www.shwetarajputportfolio.xyz
 - Youtube : https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-
-   
+
+   <a href="https://www.buymeacoffee.com/shwetarajput" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br>
 
 #### Thanks for visiting :heart:
