@@ -18,7 +18,7 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 - 💬 Ask me about anything; I would like to answer.
 
 ## Let's Connect 💬
-[![Email](https://img.shields.io/badge/Email-shwetakashyap9420001%40gmail.com-%23D14836)](mailto:shwetakashyap9420001@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%40insanemind__sk-%23bc2a8d)](https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==) [![Portfolio](https://img.shields.io/badge/Portfolio-www.shwetarajputportfolio.xyz-%230071a6)](http://www.shwetarajputportfolio.xyz) [![YouTube](https://img.shields.io/badge/YouTube-%40insanemind_sk-%23ff0000)](https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-)
+[![Email](https://img.shields.io/badge/Email-shwetakashyap9420001%40gmail.com-%23D14836)](mailto:shwetakashyap9420001@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%40insanemind__sk-%23bc2a8d)](https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==) [![Portfolio](https://img.shields.io/badge/Portfolio-shwetarajputportfolio.netlify.app-%230071a6)](https://shwetarajputportfolio.netlify.app) [![YouTube](https://img.shields.io/badge/YouTube-%40insanemind_sk-%23ff0000)](https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-)
 
 ### Tech & Tools Preference
 
@@ -48,14 +48,14 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 
 - Email : shwetakashyap9420001@gmail.com
 - Instagram : https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==
-- Portfolio :  www.shwetarajputportfolio.xyz
+- Portfolio :  https://shwetarajputportfolio.netlify.app
 - Youtube : https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-
 
 <a href="https://www.buymeacoffee.com/shwetarajput" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br>
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/insanemindsk/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/ShwetaRajputsk/count.svg)
 ### Show some ❤️ by starring some of the repositories!
 
 ⭐️ From [Shweta](https://github.com/ShwetaRajputsk)
