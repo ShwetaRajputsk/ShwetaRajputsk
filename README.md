@@ -41,7 +41,7 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 
 ### GitHub Stats | Most Used Languages
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=insanemindsk&show_icons=true&theme=radical)   |   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanemindsk&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShwetaRajputsk&show_icons=true&theme=radical)   |   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaRajputsk&layout=compact&theme=radical)
 
 
 ### 📫 How to reach me:
