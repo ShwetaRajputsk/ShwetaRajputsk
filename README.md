@@ -58,4 +58,4 @@ Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
 ![VisitorCount](https://profile-counter.glitch.me/insanemindsk/count.svg)
 ### Show some ❤️ by starring some of the repositories!
 
-⭐️ From [Shweta](https://github.com/insanemindsk)
+⭐️ From [Shweta](https://github.com/ShwetaRajputsk)
