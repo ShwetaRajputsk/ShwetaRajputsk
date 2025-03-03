@@ -1,24 +1,36 @@
+![banner](https://github.com/user-attachments/assets/215f9800-3960-43f3-8d1b-3f164c9a7cf8)
+
+
 ### Hi there, I am Shweta Rajput. 👋
 
+**💻 Full Stack Developer | 🌱 AI & ML Enthusiast | 🎨 UI/UX Explorer**  
 
-![banner](https://github.com/insanemindsk/insanemindsk/assets/60995834/9783f8d4-f684-481b-ad2e-9f27a16d3053)
+🔹 Passionate about building **scalable and efficient** digital solutions that seamlessly blend creativity with functionality.  
+🔹 Currently pursuing a **Master’s in Computer Applications** at SRM University, Delhi-NCR.  
+🔹 Strong hands-on experience in **web & mobile development, backend systems, and machine learning**.  
 
+## 🚀 What I’m Working On  
+- **🌾 Crop Disease Recognition** – Built a **Flutter app** integrating **VGG16 + ResNet50** for detecting **11+ crop diseases** with **97.63% accuracy**.  
 
+## 🛠 My Tech Stack  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Firebase, Django  
+- **ML & AI:** TensorFlow, OpenCV, Hugging Face  
+- **Mobile:** Flutter  
+- **Databases & Cloud:** MongoDB, MySQL, Firebase, Render  
 
+## 🤝 I Love  
+✔ Contributing to **open-source projects & developer communities**.  
+✔ Creating **impactful, user-friendly applications**.  
+✔ Learning **new technologies & solving real-world problems**.  
+✔ **Networking** and collaborating with like-minded tech enthusiasts.  
 
-Hi, I'm Shweta Rajput, a Full Stack Developer 🚀 from India.
+## 🎉 Fun Facts  
+- 💡 Always up for a **tech talk or brainstorming session**!  
 
-- 😄 Pronouns: She/Her.
-- 🎓 I’m pursuing a master's degree in Computer Application from SRM University .
-- 🔭 I’m currently working on a productivity app.
-- 🌱 I’m currently learning Computer Vision.
-- 📚 I want to learn Flutter.
-- 👯 I love contributing to open-source projects and the community.
-- 😍 Besides programming, I enjoy eating food and traveling.
-- 💬 Ask me about anything; I would like to answer.
-
-## Let's Connect 💬
-[![Email](https://img.shields.io/badge/Email-shwetakashyap9420001%40gmail.com-%23D14836)](mailto:shwetakashyap9420001@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%40insanemind__sk-%23bc2a8d)](https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==) [![Portfolio](https://img.shields.io/badge/Portfolio-shwetarajputportfolio.netlify.app-%230071a6)](https://shwetarajputportfolio.netlify.app) [![YouTube](https://img.shields.io/badge/YouTube-%40insanemind_sk-%23ff0000)](https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-)
+## 📫 Let’s Connect!  
+[![Email](https://img.shields.io/badge/Email-shwetakashyap9420001%40gmail.com-%23D14836)](mailto:shwetakashyap9420001@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%40insanemind__sk-%23bc2a8d)](https://instagram.com/insanemind_sk?igshid=YTQwZjQ0NmI0OA==) [![Portfolio](https://img.shields.io/badge/Portfolio-shwetarajput.is--a.dev-%230071a6)](https://shwetarajput.is-a.dev)
+ [![YouTube](https://img.shields.io/badge/YouTube-%40insanemind_sk-%23ff0000)](https://youtu.be/KaSIPerfFT4?si=bzR98LKQpQxROXJ-)
 
 ### Tech & Tools Preference
 
